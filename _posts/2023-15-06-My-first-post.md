@@ -15,9 +15,6 @@ TEST
 #!/bin/bah
 ```
 
----
-[This is a link](https://projectsts.github.io/)
-
 
 
 
